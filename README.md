@@ -29,4 +29,4 @@ Note:
 
 This is not my own script.
 I needed it for https://www.hackthissite.org/missions/realistic/6/index.html.
-Initially i found [this](https://github.com/rudolfce/XECryption-crack), but only supports Python2, so i ported it to python3
+Initially i found [this](https://github.com/rudolfce/XECryption-crack), but only supports Python2, so i ported it to python3.
