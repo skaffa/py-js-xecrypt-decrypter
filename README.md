@@ -22,3 +22,11 @@ Replace [encrypted file] with the path to the file containing the encrypted data
 2. Enter any character (except 'q') and press Enter to continue to the next decryption attempt.
 
 3. To exit the script, enter 'q' and press Enter.
+
+
+
+Note:
+
+This is not my own script.
+I needed it for https://www.hackthissite.org/missions/realistic/6/index.html
+Initially i found [this](https://github.com/rudolfce/XECryption-crack), but only supports Python2, so i ported it to python3
