@@ -1,6 +1,6 @@
-# Xecrypt Decryption Script (Python3)
+This is a Python/JS script that can be used to decrypt data encrypted using the Xecrypt encryption algorithm.
 
-This is a Python script that can be used to decrypt data encrypted using the Xecrypt encryption algorithm.
+# Xecrypt Decryption Script (Python3)
 
 ## Usage
 
@@ -23,7 +23,16 @@ Replace [encrypted file] with the path to the file containing the encrypted data
 
 3. To exit the script, enter 'q' and press Enter.
 
+# Xecrypt Decryption Script (Javascript)
 
+1. Incude the js file in your project.
+
+2. Call XUcrypt(XEcryptString).
+
+Example
+```js
+console.log(XUcrypt(<encrypted data>));
+```
 
 Note:
 
