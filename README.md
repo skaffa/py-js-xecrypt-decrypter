@@ -1,4 +1,4 @@
-# Xecrypt Decryption Script
+# Xecrypt Decryption Script (Python3)
 
 This is a Python script that can be used to decrypt data encrypted using the Xecrypt encryption algorithm.
 
