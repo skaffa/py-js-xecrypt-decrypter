@@ -34,7 +34,12 @@ Example
 console.log(XUcrypt(<encrypted data>));
 ```
 
+# Xecrypt Decryption Script (Python (Javascript ported to Python))
 
+Example
+```python
+print(XUcrypt(open('xe.txt', 'r').read()))
+```
 
 Note:
 
