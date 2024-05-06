@@ -47,3 +47,6 @@ This is not my own script.
 I needed it for https://www.hackthissite.org/missions/realistic/6/index.html.
 Initially i found [this](https://github.com/rudolfce/XECryption-crack), but only supports Python2, so i ported it to python3.
 And about the Javascript, i found that about 10 minutes later ([here](https://www.grobinson.me/hack-this-site-realistic-6/)) so i decided to include that in the repo as well. I decided to port the Javascript to python.
+
+
+When i say 'I', i could also mean ChatGPT. He even made me this README!
